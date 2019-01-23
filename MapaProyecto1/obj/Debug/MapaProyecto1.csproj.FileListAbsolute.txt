@@ -1,0 +1,28 @@
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\MapaProyecto1.exe.config
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\MapaProyecto1.exe
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\MapaProyecto1.pdb
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\GMap.NET.Core.dll
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\obj\Debug\MapaProyecto1.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\obj\Debug\MapaProyecto1.Form1.resources
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\obj\Debug\MapaProyecto1.Properties.Resources.resources
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\obj\Debug\MapaProyecto1.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\obj\Debug\MapaProyecto1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\obj\Debug\MapaProyecto1.csproj.CopyComplete
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\obj\Debug\MapaProyecto1.exe
+C:\Users\ASUS\source\repos\MapaProyecto1\MapaProyecto1\obj\Debug\MapaProyecto1.pdb
+C:\Users\Erick Nisbeth\Desktop\Q4_UNITEC_2018\Estrucutura DE DATOS 1\MapaProyecto1\MapaProyecto1\obj\Debug\MapaProyecto1.csprojAssemblyReference.cache
+C:\Users\Erick Nisbeth\Desktop\Q4_UNITEC_2018\Estrucutura DE DATOS 1\MapaProyecto1\MapaProyecto1\obj\Debug\MapaProyecto1.exe
+C:\Users\Erick Nisbeth\Desktop\Q4_UNITEC_2018\Estrucutura DE DATOS 1\MapaProyecto1\MapaProyecto1\obj\Debug\MapaProyecto1.pdb
